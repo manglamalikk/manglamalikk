@@ -50,8 +50,8 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-username)<br>
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-username)<br>
+[![LinkedIn](https://www.linkedin.com/in/mangla-malik-7b41b5359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<br>
+
 ---
 
 ## 📊 GitHub Stats
